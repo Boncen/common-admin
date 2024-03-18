@@ -1,0 +1,8 @@
+{
+  "validation": {
+    "needPassword": "请输入密码",
+    "passwordLengthError": "密码长度不够",
+    "needAccount": "请输入账号"
+
+  }
+}
